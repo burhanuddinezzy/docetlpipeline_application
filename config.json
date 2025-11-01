@@ -1,0 +1,26 @@
+{
+  "config_name": "bol_extraction_config",
+  "new_docs_folder": "C:\\Users\\burha\\trag\\new_docs",
+  "processed_docs_folder": "C:\\Users\\burha\\trag\\processed_docs",
+  "output_file": "C:\\Users\\burha\\trag\\output\\bol_extractions.csv",
+
+  "output": {
+    "output_file": "./output/bol_extractions.csv",
+    "fields": [
+      "Shipper Name",
+      "Shipper Address",
+      "Consignee Name",
+      "Consignee Address",
+      "Items and Quantities/Weights (All in single cell)",
+      "Shipping Date",
+      "Delivery Date",
+      "Freight Charges",
+      "Payment Terms",
+      "BOL Number",
+      "Reference Number",
+      "Carrier Company",
+      "Transport Company",
+      "Special Delivery Instructions / Notes (All in single cell)"
+    ]
+  }
+}
